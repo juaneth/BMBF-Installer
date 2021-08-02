@@ -1,1 +1,0 @@
-https://github.com/SideQuestVR/SideQuest/releases/latest/download/SideQuest-Setup-0.10.21-x64-win.exe
